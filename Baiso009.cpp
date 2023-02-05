@@ -1,3 +1,5 @@
+//Nhập vào 2 số nguyên a, b từ bàn phím thông qua cửa sổ console. Hãy xuất ra màn hình giá trị nhỏ nhất và giá trị lớn nhất giữa hai số a và b.
+
 #include "stdio.h";
 int main () {
 	//Khai bao bien a, b
