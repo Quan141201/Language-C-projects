@@ -12,9 +12,4 @@ int main () {
 
     printf ("\n%d = %d ", !a);
     printf ("\n%d = %d ", !b);
-
-    
-
-
-
 }
