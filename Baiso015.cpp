@@ -4,12 +4,12 @@ int main () {
     int b = 0; 
     int c = 1;
 
-    printf ("\n%d && %d = %d ", a && b);
-    printf ("\n%d && %d = %d ", a && c);
+    printf ("\n%d && %d = %d ", a, b, a && b);
+    printf ("\n%d && %d = %d ", a, c, a && c);
 
-    printf ("\n%d || %d = %d ", a || b);
-    printf ("\n%d || %d = %d ", a || c);
+    printf ("\n%d || %d = %d ", a, b, a || b);
+    printf ("\n%d || %d = %d ", a, c, a || c);
 
-    printf ("\n%d = %d ", !a);
-    printf ("\n%d = %d ", !b);
+    printf ("\n%d = %d ", a, !a);
+    printf ("\n%d = %d ", b, !b);
 }
