@@ -14,7 +14,7 @@ int main () {
 	int i;
 	for(i=0;i<=n;i++){
 		printf("\n%d", i);
-        total = total + i;
+        	total = total + i;
 	}
     printf ("\nTotal = %d", total);*/
     
