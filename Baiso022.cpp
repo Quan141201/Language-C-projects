@@ -1,6 +1,6 @@
 #include "stdio.h"
 int main () {
-	/* in so tu 1 - 10 va tinh tong chung 
+	/* in so tu 0 - 10 va tinh tong chung 
 	int n = 0;
 	int total = 0;
 	while (n <= 9 ) {
@@ -9,6 +9,7 @@ int main () {
 		total = n + total;
 	}
 	printf ("\nTotal = %d", total );*/
+	
 
 	// /* nhap mot so n va in ra tu 0 den so do. Tinh tong cac so da in ra bang vong lap while
 	int n;
