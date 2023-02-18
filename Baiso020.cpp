@@ -6,7 +6,7 @@ int main () {
         printf ("\n%d",i);
     } */
     
-    /* nhap mot so n va in ra tu 1 den so do. Tinh tong cac so da in ra bang vong lap for
+    /* nhap mot so n va in ra tu 0 den so do. Tinh tong cac so da in ra bang vong lap for
     int n;
     int total = 0;
 	printf("Nhap n = ");
