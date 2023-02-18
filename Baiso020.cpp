@@ -1,6 +1,6 @@
 #include "stdio.h"
 int main () {
-    /* in ra tu 1 -9 ra man hinh 
+    /* in ra tu 0 - 9 ra man hinh 
     int i;
     for ( i = 0; i<=9 ; i++ ) {
         printf ("\n%d",i);
