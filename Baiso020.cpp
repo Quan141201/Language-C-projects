@@ -1,3 +1,4 @@
+// Vong lap for
 // Xuat ra man hinh cac so tu 0 den 9
 
 #include "stdio.h"
