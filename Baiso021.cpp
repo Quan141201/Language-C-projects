@@ -1,3 +1,6 @@
+// Bang ma ASCII
+// In ra man hinh ki tu tu A->Z
+
 #include "stdio.h"
 int main () {
     char kytu;
