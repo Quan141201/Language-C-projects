@@ -1,4 +1,5 @@
 // Phep tinh co ban trong LTC
+
 #include "stdio.h"
 int main () {
     float a, b;
