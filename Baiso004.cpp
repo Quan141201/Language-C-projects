@@ -1,3 +1,5 @@
+// Cach nhap du lieu 
+
 #include "stdio.h"
 int main () {
 	char c;
