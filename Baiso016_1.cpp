@@ -1,5 +1,6 @@
 /* Viet chuong trinh cho nhap he so cua pt bac 2 ax^2 + bx + c = 0.
-Hay in ra man hinh nghiem cua pt da cho */
+Hay in ra man hinh nghiem cua pt da cho 
+*/
 
 /* Cach giai pt bac 2
 http://cdmiennam.edu.vn/cach-giai-phuong-trinh-bac-2-va-cach-tinh-nham-nghiem.html
