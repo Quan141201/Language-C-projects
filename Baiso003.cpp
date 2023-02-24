@@ -1,3 +1,5 @@
+// Cach xuat du lieu 
+
 #include "stdio.h"
 int main(){
 	printf("Bai 003 - Xuat du lieu ra man hinh\n");	
