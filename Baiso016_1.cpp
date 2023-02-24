@@ -1,10 +1,10 @@
-// Cach tu lam
-#include "stdio.h"
-#include "math.h"
-
 /* Cach giai pt bac 2
 http://cdmiennam.edu.vn/cach-giai-phuong-trinh-bac-2-va-cach-tinh-nham-nghiem.html
 */
+
+// Cach tu lam
+#include "stdio.h"
+#include "math.h"
 
 int main () 
 {
