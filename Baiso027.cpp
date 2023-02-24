@@ -1,8 +1,14 @@
-#include "stdio.h" 
+// Ham
+/* Viet chuong trinh su dung ham de nhap vao so n, kiem tra n co phai la so 
+nguyen to hay khong va xuat ket qua ra man hinh 
+*/
+
 /* Dieu kien cua SNT 
     1. > 1
     2. chi chia het cho no va 1
 */
+
+#include "stdio.h" 
 
 // tao ham kiem tra so nguyen to 
 int kiem_tra_SNT (int x) {
