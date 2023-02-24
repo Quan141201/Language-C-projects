@@ -1,3 +1,4 @@
+// Lenh if else 
 // Nhap so n, xuat ra mna hinh na la so chan hay so le
 // Dung if , else if 
 
