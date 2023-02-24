@@ -1,3 +1,5 @@
+// Cach khai bao bien 
+
 #include "stdio.h"
     int main(){
        unsigned short tuoi;
