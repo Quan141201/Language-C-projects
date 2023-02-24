@@ -1,3 +1,6 @@
+// Toan tu dieu kien
+// Kiem tra so chan le 
+
 #include"stdio.h"" 
 int main () {
 	int a;
