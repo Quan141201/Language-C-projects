@@ -1,3 +1,6 @@
+/* Viet chuong trinh cho phep nhap cac he so cua pt bac nhat mot an ax+b = 0.
+Hay in ra man hinh nghiem cua pt da cho */
+
 /* Phuong trinh bac nhat ax+b = 0 
 		Neu a != 0 -> x = -b/a
 		Neu a == 0, b == 0 -> vo so nghiem
