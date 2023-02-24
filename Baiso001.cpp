@@ -1,3 +1,5 @@
+// Gioi thieu lap trinh c
+
 // Phan 1: Dinh kem cac thu vien
 #include "stdio.h"
 
