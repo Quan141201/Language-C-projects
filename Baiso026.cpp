@@ -1,3 +1,8 @@
+// Lenh goto, lenh continue 
+/* Viet chuong trinh nhap vao so n (n>0) va xuat ra so le tu 1 den n, trong do
+co su dung lenh goto va continue
+*/
+
 #include "stdio.h"
 int main () {
 	int n;
