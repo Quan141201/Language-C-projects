@@ -1,3 +1,6 @@
+/* Viet chuong trinh cho nhap he so cua pt bac 2 ax^2 + bx + c = 0.
+Hay in ra man hinh nghiem cua pt da cho */
+
 // Cach thay chua 
 
 #include "stdio.h"
