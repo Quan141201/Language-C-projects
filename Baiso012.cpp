@@ -1,3 +1,5 @@
+// Thu vien math.h va cac ham toan hoc
+
 #include "stdio.h"
 #include "math.h"
 int main () {
