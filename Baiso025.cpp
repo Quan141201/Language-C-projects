@@ -1,3 +1,7 @@
+/* Giai thua 
+n! = 1x2x3x...x n
+*/
+
 #include "stdio.h" 
 int main () {
 	int n, giaithua;
