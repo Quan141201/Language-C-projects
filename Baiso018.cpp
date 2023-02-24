@@ -1,3 +1,6 @@
+/* Viet chuong trinh nhap ngay, thang, nam. 
+Hay tim so ngay trong thang do va xuat ra man hinh */
+
 /*
 Thang 2 co 29 hoac 28 ngay 
 Cach kiem tra
