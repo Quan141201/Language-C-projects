@@ -1,3 +1,5 @@
+// Tim uoc so chung lon nhat giua 2 so 
+
 /*
 uoc: so tu nhien a chia het cho b 
 uoc chung: so tu nhien vua chia het cho a vua chia het cho b
