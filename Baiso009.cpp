@@ -1,4 +1,4 @@
-#include "stdio.h";
+#include "stdio.h"
 int main () {
 	//Khai bao bien a, b
 	int a, b, min, max;
