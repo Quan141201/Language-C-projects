@@ -1,3 +1,5 @@
+// Nhap n tu ban phim (n>0), tinh tong cac con so tu 1 den n va xuat ra man hinh
+
 #include "stdio.h"
 int main () {
 	/* in so tu 0 - 10 va tinh tong chung 
