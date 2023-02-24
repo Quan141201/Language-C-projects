@@ -1,3 +1,5 @@
+// Tinh giai thua cua so n(n>=0), n duoc nhap tu ban phim
+
 /* Giai thua 
 n! = 1x2x3x...x n
 */
