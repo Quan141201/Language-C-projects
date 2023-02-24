@@ -1,3 +1,5 @@
+// Lenh if else 
+
 // Nhap vao 1 so va cho biet no co nho hon 20 
 
 #include "stdio.h"
