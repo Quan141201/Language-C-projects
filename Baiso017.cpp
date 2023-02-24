@@ -1,3 +1,5 @@
+// Cau lenh switch case
+
 /* Nhap vao mot so tu 1 -> 7 va hien thi ten cua thu tuong ung trong 1 tuan
 (Chu nhat -> Thu bay) */
 
