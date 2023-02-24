@@ -1,3 +1,9 @@
+/*
+uoc: so tu nhien a chia het cho b 
+uoc chung: so tu nhien vua chia het cho a vua chia het cho b
+uoc chung lon nhat: so lon nhat trong tap hop uoc chung cua a va b 
+*/
+
 #include "stdio.h"
 int main () {
 	int a, b, ucln;
