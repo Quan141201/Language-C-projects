@@ -1,3 +1,11 @@
+/* Viet chuong trinh nhap vao toa do 3 dinh cua tam giac ABC. Hay thuc hien
+yeu cau sau day:
+a. Kiem tra 3 diem A, B, C co tao thanh tam giac hay khong
+b. Kiem tra tam giac ABC co can khong 
+c. Tinh va xuat ra man hinh chu vi tam giac 
+d. Tinh va xuat ra man hinh dien tich tam giac
+*/
+
 #include "stdio.h"
 #include "math.h"
 
