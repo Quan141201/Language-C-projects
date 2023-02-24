@@ -1,7 +1,10 @@
+/* Phuong trinh bac nhat ax + b = 0 voi a khac 0
+ x = -b/a
+*/
+
 #include "stdio.h"
 int main () {
     // Khai bao bien
-    // Phuong trinh bac nhat ax + b = 0 voi a khac 0
     float a, b, x;
 
     // Nhap du lieu 
