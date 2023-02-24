@@ -1,4 +1,5 @@
-// Nhap 2 so nguyen a, b thong qua console. Hay xuat ra man hinh gia tri nho nhat va gia tri lon nhat giua 2 so a,b
+/* Nhap 2 so nguyen a, b thong qua console.
+Hay xuat ra man hinh gia tri nho nhat va gia tri lon nhat giua 2 so a,b */
 
 #include "stdio.h"
 int main () {
