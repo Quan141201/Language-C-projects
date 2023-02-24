@@ -1,3 +1,10 @@
+/*
+Thang 2 co 29 hoac 28 ngay 
+Cach kiem tra
+(nam%400 == 0) HOAC ((nam%4 == 0) && (nam%100 !=0 ))) -> 29 ngay
+Khac -> 28 ngay 
+*/
+
 #include "stdio.h"
 int main () {
     int thang, nam;
