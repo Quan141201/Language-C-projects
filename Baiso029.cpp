@@ -8,6 +8,7 @@ xuat ra tat car so chinh phuong nho hon hoac bang n
 
 #include "stdio.h"
 #include "math.h"
+
 // tao ham de kt so chinh phuong
 int kiem_tra_SCP (int x) {
     int kc = sqrt (x);
