@@ -1,3 +1,5 @@
+// Giai phuong trinh bac nhat ax+b = 0 voi a != 0
+
 /* Phuong trinh bac nhat ax + b = 0 voi a khac 0
  x = -b/a
 */
