@@ -1,3 +1,4 @@
+// Ep kieu du lieu 
 #include "stdio.h"
 int main () {
 	int a, b;
