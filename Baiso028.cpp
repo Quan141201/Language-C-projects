@@ -34,9 +34,7 @@ int main () {
     for (int k = 2; k <= n; k++) {
         int kt = kiem_tra_SNT (k);
         if( kt == 1) {
-           
             printf ("\n%d", k);
         } 
     }
-    // Xuat du lieu 
 }
