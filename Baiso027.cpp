@@ -1,4 +1,5 @@
 // Ham
+
 /* Viet chuong trinh su dung ham de nhap vao so n, kiem tra n co phai la so 
 nguyen to hay khong va xuat ket qua ra man hinh 
 */
