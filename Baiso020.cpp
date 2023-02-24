@@ -1,4 +1,5 @@
 // Xuat ra man hinh cac so tu 0 den 9
+
 #include "stdio.h"
 int main () {
     /* in ra tu 0 - 9 ra man hinh 
