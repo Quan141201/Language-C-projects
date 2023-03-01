@@ -1,10 +1,23 @@
 /* Viet chuong chinh nhap ngay, thang, nam
 a. Hay cho biet thang do co bao nhieu ngay 
+- 1,3,5,7,8,10,12 -> 31 
+- 4, 6,9, 11 -> 30
+- 2 ->  29 hoac 28
+ + 29: neu ((nam%400 == 0) ||((nam%4 == 0)&&(nam%100 !=0)))
+ 
 b. Tinh xem ngay truoc do la ngay thu bao nhieu
 trong nam
 - vd 14/5/2020. tinh so ngay tu thang 1 - 4 roi cong voi 14 
  31+ 29+ 31 +30 + 14 = 135. -> la ngay so 135 trong nam  
+ 
 c. Tim ngay truoc ngay vua nhap (ngay, thang, nam)
+- vd : 
+14/5/ 2020 -> ngay truoc do: 13/5/2020 -> ngay-- 
+1/1/2020 -> ngay truoc do:  31/12/2019 ->  thang = 12; ngay = 31; nam--
+1/12/2020 -> ngay truoc do: 30/11/2020 -> thang --, 
+                                          ngay = ngay cua thang da bi tru di 1;
+                                          nam giu nguyen
+
 d. Tim ngay ke ngay vua nhap (ngay, thang, nam)
 */
 
