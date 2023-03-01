@@ -9,7 +9,7 @@ nct
 b. Tinh xem ngay truoc do la ngay thu bao nhieu
 trong nam
 - vd 14/5/2020. tinh so ngay tu thang 1 - 4 roi cong voi 14 
- 31+ 29+ 31 +30 + 14 = 135. -> la ngay so 135 trong nam  
+ 31 + 29 + 31 + 30 + 14 = 135. -> la ngay so 135 trong nam  
  
 c. Tim ngay truoc ngay vua nhap (ngay, thang, nam)
 - vd : 
