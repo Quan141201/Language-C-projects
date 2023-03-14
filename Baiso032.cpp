@@ -1,3 +1,4 @@
+// Ham de quy 
 // Tinh giai thua cua so n bang ham de quy
 // n! = 1x2x3x...x n
 
