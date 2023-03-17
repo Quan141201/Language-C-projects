@@ -3,13 +3,13 @@
 
 int main () {
 	// Khai bao mang 
-	int a [10];
-	float b [100];
-	char c [1000];
+	int a[10];
+	float b[100];
+	char c[1000];
 	
 	// Khai bao mang va gan gia tri ban dau
-	int x [10] = {};
-	int y [3] = {9, 6, 15};
+	int x[10] = {};
+	int y[3] = {9, 6, 15};
 	
 	// Gan du lieu cho mang 
 	//Mang bat dau tu vi tri so 0
