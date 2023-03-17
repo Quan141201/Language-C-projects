@@ -44,6 +44,6 @@ int main () {
 	if (tbcsd > 0) {
 		printf ("\nTrung binh cong so duong cua mang = %.2f", tbcsd);
 	} else {
-		printf ("\nMang khong co so duong");
+		printf ("\nMang khong co so duong!");
 	}
 }
