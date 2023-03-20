@@ -13,7 +13,7 @@ int chan_chia_het_3 (int x) {
 int so_nguyen_to (int x) {
 	if (x < 1) 
 		return 0;
-	for (int i = 2; i < sqrt(x) ; i++) {
+	for (int i = 2; i <= sqrt(x) ; i++) {
 		if (x % i == 0) 
 		return 0;
 	}
